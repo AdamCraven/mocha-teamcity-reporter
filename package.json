@@ -1,7 +1,7 @@
 {
-  "name": "mocha-teamcity-reporter",
-  "version": "0.0.1",
-  "description": "teamcity reporter for mocha",
+  "name": "mocha-teamcity-reporter-with-stack-traces",
+  "version": "0.0.2",
+  "description": "teamcity reporter for mocha, with stack traces",
   "main": "index.js",
   "directories": "./lib",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/travisjeffery/mocha-teamcity-reporter.git"
+    "url": "https://github.com/AdamCraven/mocha-teamcity-reporter.git"
   },
   "keywords": [
     "mocha",
